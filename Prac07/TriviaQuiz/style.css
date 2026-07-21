@@ -1,0 +1,10 @@
+*{
+    font-family: 'Figtree', sans-serif;
+}
+body{
+    overflow-x: hidden;
+    background-color: #f8fafc;
+}
+main{
+    min-vh: 80vh;
+}
